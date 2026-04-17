@@ -393,6 +393,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 ---
 
 ![image alt](https://github.com/Chittaranjanbehera123/LuxuryMultiVendorEcommerce-ReadMe.md/blob/8dc9bbc11e7a047d3280ab2855c197c19199dd72/Screenshot%20(137).png)
+![image alt](https://github.com/Chittaranjanbehera123/LuxuryMultiVendorEcommerce-ReadMe.md/blob/aefa1156a826944a0881b217165c17ec310c8413/Screenshot%20(138).png)
 
 ## 🔒 Security Considerations
 
