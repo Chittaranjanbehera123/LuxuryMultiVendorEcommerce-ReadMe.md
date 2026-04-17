@@ -368,6 +368,8 @@ pip install psycopg2-binary
 
 # 11. Install Django REST Framework
 pip install djangorestframework
+
+![img alt](https://github.com/Chittaranjanbehera123/LuxuryMultiVendorEcommerce-ReadMe.md/blob/0d7a6efea3ea7ae4ede338f6022cc0be24182a4f/Screenshot%20(137).png)
 ```
 
 ### Frontend (React)
