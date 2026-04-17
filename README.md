@@ -390,8 +390,9 @@ Then import Bootstrap in `src/index.js`:
 ```javascript
 import 'bootstrap/dist/css/bootstrap.min.css';
 ```
-![image alt]()
 ---
+
+![image alt](https://github.com/Chittaranjanbehera123/LuxuryMultiVendorEcommerce-ReadMe.md/blob/8dc9bbc11e7a047d3280ab2855c197c19199dd72/Screenshot%20(137).png)
 
 ## 🔒 Security Considerations
 
